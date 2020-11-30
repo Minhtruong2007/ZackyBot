@@ -1,7 +1,7 @@
 # 
 
 # ═════════════ [ZackyBot](https://discord.com/oauth2/authorize?client_id=738227434679304243&scope=bot&permissions=8) ═════════════
-### Nobita is a powerful bot with invite tracking, music and a lot of funcions *(updating..)*
+
 **Prefix:** `zb!` - **110** commands
 **More Information:** `zb!help <cmd>`
 >  **🛠️ MODERATION (15)**
