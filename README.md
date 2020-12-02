@@ -23,6 +23,6 @@
 - Moderation
 - Music 
 - And more!
-###[support server](https://discord.gg/ZDRc4cCDDn) 
+[support server](https://discord.gg/ZDRc4cCDDn) 
 </a>
 
