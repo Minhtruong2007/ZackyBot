@@ -25,7 +25,7 @@
 ##### 
  > **📜 INFORMATION (20)**
 ##### 
-##### ``anime` | `avatar` | `botinfo` | `date` | `discordjs` | `emoji` | `help` | `instagram` | `info` | `langlist` | `link` | `corona` | `ping` | `serverinfo` | `snipe` | `tiktok` | `uptime` | `urban` | `weather` | `wikipedia` | `youtube``
+##### `anime` | `avatar` | `botinfo` | `date` | `discordjs` | `emoji` | `help` | `instagram` | `info` | `langlist` | `link` | `corona` | `ping` | `serverinfo` | `snipe` | `tiktok` | `uptime` | `urban` | `weather` | `wikipedia` | `youtube`
 ##### 
 ### If you wanna buy a bot like that with cheap prize [contact me](https://discord.gg/ZDRc4cCDDn) and [support server](https://discord.gg/ZDRc4cCDDn) 
 </a>
