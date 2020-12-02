@@ -4,28 +4,28 @@
 
 **Prefix:** `zb!` - **110** commands
 **More Information:** `zb!help <cmd>`
->  **🛠️ MODERATION (15)**
+>  **🛠️ MODERATION (16)**
 #####
-##### `addemoji` `addrole` `ban` `clear `kick` `lock` `lockchannel` `mute` `removerole` `setchannel` `setgoodbye` `setwelcome` `unban` `unmute `warn`
+##### `addemoji` | `addrole` | `ban` | `clear` | `kick` | `lock` | `lockchannel` | `mute` | `removerole` | `setchannel` | `setgoodbye` | `setwelcome` | `setwikilanguage` | `unban` | `unmute` | `warn`
 #####
-> **🔊 TTS (7)**
+> **🎶 MUSIC (11))**
 #####
-##### `language` `languages` `setdefault` `speak` `speed` `stop`
+##### `clear-queue` | `loop` | `nowplaying` | `pause` | `play` | `queue` | `resume` | `shuffle` | `skip` | `stop` | `volume`
 #####
 > **🎈 FUN (17)**
 #####
-##### `chat` `meme` `ascii` `dm` `fact` `giveaway` `howgay` `ify` `poll` `pp` `random` `remind` `reroll` `say` `waifu` `why` `yn`
+##### `meme` | `ascii` | `fact` | `giveaway` | `howgay` | `ify` | `poll` | `pp` | `random` | `remind` | `reroll` | `say` | `waifu` | `why` | `yn`
 > **🎎 ROLEPLAY (24)**
 #####
 ##### `baka` `bite` `clap` `cry` `cuddle` `dance` `die` `highfive` `hug` `kill` `kiss` `laugh` `lick` `pat` `poke` `pout` `punch` `run` `sad` `shoot` `slap` `smile` `wag` `wiggle`
 ##### 
  > **🏞️ IMAGE (20)**
 ##### 
-##### `delete` `dog` `foxgirl` `gay` `hitler` `image` `jail` `kemonomimi` `meow` `milk` `ship` `neko` `randomavatar` `rip` `search-gif` `stonks` `trash` `trigger` `wallpaper` `wanted`
+##### `burn` | `delete` | `dog` | `foxgirl` | `gay` | `hitler` | `image` | `jail` | `kemonomimi` | `meow` | `milk` | `ship` | `neko` | `randomavatar` | `rip` | `search-gif` | `stonks` | `trash` | `trigger` | `wallpaper` | `wanted` | `wasted`
 ##### 
  > **📜 INFORMATION (20)**
 ##### 
-##### `instagram` `anime` `avatar` `botinfo` `date` `discordjs` `emoji` `help` `info` `link` `corona` `ping` `serverinfo` `snipe` `tiktok` `uptime` `urban` `weather` `wikipedia` `youtube`
+##### ``anime` | `avatar` | `botinfo` | `date` | `discordjs` | `emoji` | `help` | `instagram` | `info` | `langlist` | `link` | `corona` | `ping` | `serverinfo` | `snipe` | `tiktok` | `uptime` | `urban` | `weather` | `wikipedia` | `youtube``
 ##### 
 ### If you wanna buy a bot like that with cheap prize [contact me](https://discord.gg/ZDRc4cCDDn) and [support server](https://discord.gg/ZDRc4cCDDn) 
 </a>
