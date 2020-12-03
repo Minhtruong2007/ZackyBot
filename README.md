@@ -2,12 +2,12 @@
 
 # ═════════════ [ZackyBot](https://discord.com/oauth2/authorize?client_id=738227434679304243&scope=bot&permissions=8) ═════════════
 
-**Prefix:** `zb!` - **117** commands
+**Prefix:** `zb!` - **119** commands
 **More Information:** `zb!help <cmd>`
 >  **🛠️ MODERATION (16)**
 ##### `addemoji` | `addrole` | `ban` | `clear` | `kick` | `lock` | `lockchannel` | `mute` | `removerole` | `setchannel` | `setgoodbye` | `setwelcome` | `setwikilanguage` | `unban` | `unmute` | `warn`
-> **🎶 MUSIC (9))**
-##### `nowplaying` | `pause` | `play` | `queue` | `resume` | `search` | `skip` | `stop` | `volume`
+> **🎶 MUSIC (10)**
+##### `nowplaying` | `pause` | `play` | `queue` | `resume` | `search` | `skip` | `stop` | `volume` | `loop`
 > **🎈 FUN (17)**
 ##### `chat` | `meme` | `ascii` | `fact` | `giveaway` | `howgay` | `ify` | `joke` | `poll` | `pp` | `random` | `remind` | `reroll` | `say` | `waifu` | `why` | `yn`
 > **🎎 ROLEPLAY (24)**
