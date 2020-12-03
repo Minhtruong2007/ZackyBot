@@ -2,7 +2,7 @@
 
 # ═════════════ [ZackyBot](https://discord.com/oauth2/authorize?client_id=738227434679304243&scope=bot&permissions=8) ═════════════
 
-**Prefix:** `zb!` - **119** commands
+**Prefix:** `zb!` - **118** commands
 **More Information:** `zb!help <cmd>`
 >  **🛠️ MODERATION (16)**
 ##### `addemoji` | `addrole` | `ban` | `clear` | `kick` | `lock` | `lockchannel` | `mute` | `removerole` | `setchannel` | `setgoodbye` | `setwelcome` | `setwikilanguage` | `unban` | `unmute` | `warn`
