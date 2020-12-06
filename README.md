@@ -1,9 +1,9 @@
 # 
 
 # ═════════════ [ZackyBot](https://discord.com/oauth2/authorize?client_id=738227434679304243&scope=bot&permissions=8) ═════════════
-#**ZackyBot with 100+ commands**
-#**Prefix:** `zb!` 
-#**More Information:** `zb!help <cmd>`
+####**ZackyBot with 100+ commands**
+####**Prefix:** `zb!` 
+####**More Information:** `zb!help <cmd>`
 >  **🛠️ MODERATION**
 ##### `addemoji` | `addrole` | `ban` | `clear` | `kick` | `lock` | `lockchannel` | `mute` | `removerole` | `setchannel` | `setgoodbye` | `setwelcome` | `setwikilanguage` | `unban` | `unmute` | `warn`
 > **🎶 MUSIC**
