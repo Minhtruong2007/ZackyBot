@@ -13,7 +13,7 @@
 > **🎎 ROLEPLAY**
 ##### `baka` `bite` `clap` `cry` `cuddle` `dance` `die` `highfive` `hug` `kill` `kiss` `laugh` `lick` `pat` `poke` `pout` `punch` `run` `sad` `shoot` `slap` `smile` `wag` `wiggle`
 > **🏞️ IMAGE**
-##### `burn` | `delete` | `dog` | `foxgirl` | `gay` | `hitler` | `image` | `jail` | `kemonomimi` | `meow` | `milk` | `ship` | `neko` | `randomavatar` | `rip` | `search-gif` | `stonks` | `trash` | `trigger` | `wallpaper` | `wanted` | `wasted`
+##### `burn` | `delete` | `dog` | `foxgirl` | `gay` | `hitler` | `image` | `jail` | `kemonomimi` | `meow` | `milk` | `ship` | `randomavatar` | `rip` | `search-gif` | `stonks` | `trash` | `trigger` | `wallpaper` | `wanted` | `wasted`
 > **📜 INFORMATION**
 ##### `instagram` | `anime` | `avatar` | `botinfo` | `color` | `date` | `discordjs` | `emoji` | `help` | `info` | `langlist` | `link` | `corona` | `ping` | `serverinfo` | `snipe` | `tiktok` | `uptime` | `urban` | `weather` | `wikipedia` | `youtube`
 > **⚖️ UTILITY**
@@ -27,6 +27,6 @@
 - Confession
 - And more!
 
-[[support server]](https://discord.gg/ZDRc4cCDDn) 
+[[support server]](https://discord.gg/BbHkWamcuZ) 
 </a>
 
