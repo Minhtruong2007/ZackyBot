@@ -24,6 +24,7 @@
 - Meme generator
 - Moderation
 - Music 
+- Confession
 - And more!
 
 [[support server]](https://discord.gg/ZDRc4cCDDn) 
